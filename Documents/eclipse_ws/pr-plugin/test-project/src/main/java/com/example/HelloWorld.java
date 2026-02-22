@@ -5,4 +5,29 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println("This is a simple Java test project.");
     }
+    
+    public void test() {
+    	 System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+         System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+         System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+         System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+         System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+         System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+         System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+         System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+         System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+         System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+         System.out.println("Hello, World!");
+         System.out.println("This is a simple Java test project.");
+    }
 }
